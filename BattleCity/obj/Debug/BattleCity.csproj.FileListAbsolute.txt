@@ -1,0 +1,53 @@
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.Cache
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.FormGameplay.resources
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.FormMenu.resources
+E:\quân\Learning\Lập trình windows\Project Giữa Kỳ\BattleCity\BattleCity\obj\Debug\BattleCity.csprojResolveAssemblyReference.cache
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.FormGameplay.resources
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.FormMenu.resources
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+C:\Users\blvtu\Downloads\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.Cache
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\bin\Debug\BattleCity.exe.config
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.exe
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.pdb
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.csprojResolveAssemblyReference.cache
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.FormGameplay.resources
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.FormMenu.resources
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+C:\Users\blvtu\Downloads\BattleCity - Copy\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.FormGameplay.resources
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.FormMenu.resources
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+C:\Users\DELL\Downloads\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.FormGameplay.resources
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.FormMenu.resources
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+C:\Users\Admin\Desktop\BattleCity\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
